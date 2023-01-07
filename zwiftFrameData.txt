@@ -1,0 +1,77 @@
+﻿Bike,Flat Time,Climb Time
+string,number,number
+Cervelo S5 2020,3077,2949
+Felt AR,3077,2946
+Spec Venge S-Works,3077,2946
+Uran Nuclear,3077,2949
+Canyon Aero 2021,3079,2941
+Cervelo S5,3079,2950
+Trek Madone,3079,2952
+Cann SystemSix,3080,2964.5
+Chapter2 Toa,3080,2943
+Pin Dogma F,3080,2939
+Spec Venge,3080,2963
+Canyon Aero,3081.5,2960
+Giant Propel ,3081.5,2954.5
+Focus Izalco,3082.5,2950
+Scott Addict RC,3082.5,2935
+Pin Dogma F12,3083,2949
+Spec Allez Spr,3083,2953
+Cervelo S3D,3083.5,2972.5
+Rid Noah Fast,3083.5,2964.5
+Factor One,3084.5,2966
+Zwift Aero,3085,2968
+Parlee RZ7,3086,2961
+Pin Dogma F10,3086,2952.5
+Ribble End,3087,2966
+Chapter2 Rere,3088,2963
+Scott Foil,3088,2952.5
+BMC TeamMach,3089.5,2942.5
+Liv Langma Disc,3089.5,2945
+Cann SuperSix EVO,3090,2940
+Felt FR,3090,2940
+Spec Tarmac SL7,3090,2958
+Giant TCR Disc,3091,2959
+Pin Dogma F8,3091,2955
+Giant TCR,3091.5,2945.5
+Parlee ESX,3091.5,2959.5
+Pin Dogma 65.1,3091.5,2972
+Canyon Ult CFR,3092,2935
+Bridgestn SR9s,3093,2937.5
+Cann EVO,3093,2934.5
+Canyon Ult,3093,2940
+Cube Lite C:68X,3093,2936
+Spec Aethos,3093,2930
+Spec Roub S-Works,3093,2946.5
+Spec Tarmac Pro,3093,2936
+BMC SLR01,3093.5,2947
+Cann Synapse,3093.5,2951
+Cervelo R5,3093.5,2941.5
+Chapter2 Tere,3093.5,2941.5
+Spec Amira,3093.5,2946
+Spec Amira S-Works,3093.5,2940
+Spec Ruby S-Works,3093.5,2946.5
+Spec Tarmac,3093.5,2941
+Trek Emonda,3093.5,2938
+Colnago V3RS,3094,2951.5
+Cube Lite,3094,2942
+Liv Langma,3094,2945.5
+Rid Helium,3094,2958
+Spec Roub,3094,2955
+Spec Ruby,3094,2955
+Trek Emonda SL,3094,2943
+BMC Road,3094.5,2964
+Moots Vamoots,3094.5,2975
+Mosaic RT-1d,3094.5,2975
+Spec Allez,3094.5,2973.5
+Van Rysel EDR,3094.5,2960
+Cann CAAD12,3095,2970.5
+Zwift Carbon,3096,2987
+Zwift Safety,3097,3006.5
+Zwift Steel,3099.5,2995.5
+Zwift Buffalo,3106,3065.5
+,,
+,,
+,,
+,,
+,,
